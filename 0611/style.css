@@ -20,7 +20,7 @@
   .footerbox1{
     color:beige;
     width:80%;
-    height:15vh;
+    height:20vh;
     background-color: #396c54;
     display:flex;
     justify-content: center;
@@ -34,7 +34,7 @@
     height:15vh;
     background-color: #396c54;
     display:flex;
-    justify-content: center;
+    justify-content: flex-end;
     margin: 0 auto;
 
   }
@@ -49,8 +49,13 @@
 .footer-heading{
     display: flex;
     flex-direction: column;
+   
     margin-right:5rem;
     
+}
+
+img{
+    margin-bottom: 3rem;
 }
 
 
